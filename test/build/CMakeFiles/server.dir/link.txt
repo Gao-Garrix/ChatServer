@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/server.dir/muduo_server.cpp.o -o /home/junn/ClusterChat/test_muduo/bin/server  -lmuduo_net -lmuduo_base -lpthread 
