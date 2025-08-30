@@ -1,0 +1,52 @@
+[
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\chatserver.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\chatserver.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\chatservice.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\chatservice.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\main.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\main.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/main.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\db\\db.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\db\\db.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/db/db.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\friendmodel.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\model\\friendmodel.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\groupmodel.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\model\\groupmodel.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\offlinemessagemodel.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\model\\offlinemessagemodel.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\model\\usermodel.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\model\\usermodel.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/server",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatServer.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatServer.dir\\redis\\redis.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\server\\redis\\redis.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "E:/Git_MyProject/ChatServer/build/src/client",
+  "command": "C:\\Mingw-w64\\mingw64\\bin\\g++.exe  @CMakeFiles/ChatClient.dir/includes_CXX.rsp -g -g -o CMakeFiles\\ChatClient.dir\\main.cpp.obj -c E:\\Git_MyProject\\ChatServer\\src\\client\\main.cpp",
+  "file": "E:/Git_MyProject/ChatServer/src/client/main.cpp"
+}
+]

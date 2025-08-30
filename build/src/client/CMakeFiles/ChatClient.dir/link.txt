@@ -1,1 +1,3 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/ChatClient.dir/main.cpp.o -o /home/junn/ClusterChat/bin/ChatClient  -lpthread 
+"C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ChatClient.dir/objects.a
+C:\Mingw-w64\mingw64\bin\ar.exe qc CMakeFiles\ChatClient.dir/objects.a @CMakeFiles\ChatClient.dir\objects1.rsp
+C:\Mingw-w64\mingw64\bin\g++.exe -g -g -Wl,--whole-archive CMakeFiles\ChatClient.dir/objects.a -Wl,--no-whole-archive -o E:\Git_MyProject\ChatServer\bin\ChatClient.exe -Wl,--out-implib,E:\Git_MyProject\ChatServer\bin\libChatClient.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ChatClient.dir\linklibs.rsp
